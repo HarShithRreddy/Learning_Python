@@ -25,4 +25,12 @@ to guide the learning process, while all code is written and modified independen
 
 ---
 
+## 🛠 Tools Used
+- Python 3
+- Jupyter Notebooks (for interactive practice and experimentation)
+- VS Code
+- Git & GitHub
+
+---
+
 ## 📂 Repository Structure
