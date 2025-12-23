@@ -18,4 +18,11 @@ The goal of this repository is to build a solid Python foundation before moving 
 
 ---
 
+## 📚 Learning Resources
+This repository is built through hands-on practice and self-implementation.
+Structured online resources (including curated Python courses) are used as references
+to guide the learning process, while all code is written and modified independently.
+
+---
+
 ## 📂 Repository Structure
