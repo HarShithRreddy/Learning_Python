@@ -1,0 +1,2 @@
+Updated content using write function
+ Sample file for demonstrating File Handling
